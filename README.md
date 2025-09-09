@@ -13,4 +13,4 @@ Materiales y recursos
 
 ### Bachillerato
 
-*   Apuntes de [PRSI](https://aznarel.github.io/prsi/) para el curso de _Programación, redes y sistemas informáticosa_ (1º Bachillerato).
+*   Apuntes de [PRSI](https://aznarel.github.io/PRSI/) para el curso de _Programación, redes y sistemas informáticosa_ (1º Bachillerato).
