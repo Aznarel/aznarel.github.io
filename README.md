@@ -8,8 +8,8 @@ Materiales y recursos
 
 ### Secundaría
 
-*   Apuntes de [Big Data (y algo de IA)](https://aitor-medrano.github.io/iabd/) para el curso de _Especialización en Inteligencia Artificial y Big Data_ (4ª edición).
+*   Apuntes de 
 
 ### Bachillerato
 
-*   Apuntes de [PRSI](https://aznarel.github.io/PRSI/)) para el curso de _Programación, redes y sistemas informáticosa_ (1º Bachillerato).
+*   Apuntes de [PRSI](https://aznarel.github.io/PRSI/) para el curso de _Programación, redes y sistemas informáticosa_ (1º Bachillerato).
